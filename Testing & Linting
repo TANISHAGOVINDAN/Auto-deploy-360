@@ -1,0 +1,11 @@
+# ESLint
+npm install eslint --save-dev
+npx eslint . 
+
+# HTMLHint
+npm install htmlhint --save-dev
+npx htmlhint .
+
+# JS Test
+npm install jest --save-dev
+npx jest
